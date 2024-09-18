@@ -1,0 +1,13 @@
+/* Basic reset to remove default browser styles */
+* {
+  margin: 0;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+  color: #333;
+  line-height: 1.6;
+}
